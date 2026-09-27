@@ -1,0 +1,110 @@
+[
+  {
+    "id": "exact-01",
+    "category": "identical",
+    "textA": "A água ferve a cem graus Celsius ao nível do mar.",
+    "textB": "A água ferve a cem graus Celsius ao nível do mar."
+  },
+  {
+    "id": "exact-02",
+    "category": "identical",
+    "textA": "A leitura diária contribui para ampliar o vocabulário.",
+    "textB": "A leitura diária contribui para ampliar o vocabulário."
+  },
+  {
+    "id": "exact-03",
+    "category": "identical",
+    "textA": "O transporte público reduz o número de carros nas ruas.",
+    "textB": "O transporte público reduz o número de carros nas ruas."
+  },
+  {
+    "id": "exact-04",
+    "category": "identical",
+    "textA": "A energia solar é produzida a partir da luz do Sol.",
+    "textB": "A energia solar é produzida a partir da luz do Sol."
+  },
+  {
+    "id": "exact-05",
+    "category": "identical",
+    "textA": "A preservação das florestas protege a biodiversidade.",
+    "textB": "A preservação das florestas protege a biodiversidade."
+  },
+  {
+    "id": "exact-06",
+    "category": "identical",
+    "textA": "Uma alimentação equilibrada favorece a saúde.",
+    "textB": "Uma alimentação equilibrada favorece a saúde."
+  },
+  {
+    "id": "paraphrase-01",
+    "category": "paraphrase",
+    "textA": "O gato subiu no telhado durante a noite fria.",
+    "textB": "O felino escalou a cobertura durante a madrugada gelada."
+  },
+  {
+    "id": "paraphrase-02",
+    "category": "paraphrase",
+    "textA": "A biblioteca fecha às oito horas da noite.",
+    "textB": "O espaço de leitura encerra as atividades às vinte horas."
+  },
+  {
+    "id": "paraphrase-03",
+    "category": "paraphrase",
+    "textA": "A chuva forte provocou alagamentos no centro da cidade.",
+    "textB": "A precipitação intensa causou inundações na região central do município."
+  },
+  {
+    "id": "paraphrase-04",
+    "category": "paraphrase",
+    "textA": "Os pesquisadores encontraram uma nova espécie de planta na Amazônia.",
+    "textB": "Cientistas descobriram uma variedade vegetal desconhecida na floresta amazônica."
+  },
+  {
+    "id": "paraphrase-05",
+    "category": "paraphrase",
+    "textA": "O automóvel elétrico percorreu uma longa distância sem recarga.",
+    "textB": "O carro movido a eletricidade viajou muitos quilômetros sem precisar ser carregado."
+  },
+  {
+    "id": "paraphrase-06",
+    "category": "paraphrase",
+    "textA": "A equipe médica recomendou repouso e hidratação ao paciente.",
+    "textB": "Os profissionais de saúde aconselharam o doente a descansar e beber líquidos."
+  },
+  {
+    "id": "unrelated-01",
+    "category": "unrelated",
+    "textA": "A bolsa de valores encerrou o pregão em alta nesta terça-feira.",
+    "textB": "Receitas tradicionais de pão utilizam farinha, água e fermento."
+  },
+  {
+    "id": "unrelated-02",
+    "category": "unrelated",
+    "textA": "O campeonato de natação começa no próximo fim de semana.",
+    "textB": "A arquitetura colonial preserva construções históricas em várias cidades."
+  },
+  {
+    "id": "unrelated-03",
+    "category": "unrelated",
+    "textA": "Satélites monitoram a formação de tempestades sobre o oceano.",
+    "textB": "O violonista ensaiou novas composições para o concerto de sábado."
+  },
+  {
+    "id": "unrelated-04",
+    "category": "unrelated",
+    "textA": "A professora explicou os fundamentos da álgebra linear.",
+    "textB": "Agricultores colheram café nas encostas da região montanhosa."
+  },
+  {
+    "id": "unrelated-05",
+    "category": "unrelated",
+    "textA": "O museu inaugurou uma exposição de fotografias contemporâneas.",
+    "textB": "Engenheiros testaram baterias para armazenar energia eólica."
+  },
+  {
+    "id": "unrelated-06",
+    "category": "unrelated",
+    "textA": "A vacinação infantil será realizada nos postos de saúde locais.",
+    "textB": "O navio cargueiro transportou toneladas de minério pelo litoral."
+  }
+]

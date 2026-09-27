@@ -1,0 +1,22 @@
+{
+  "name": "tcc-text-file-comparison",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "dev:frontend": "yarn workspace frontend dev",
+    "dev:backend": "yarn workspace backend start:dev",
+    "build:frontend": "yarn workspace frontend build",
+    "build:backend": "yarn workspace backend build"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.10.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.6",
+    "globals": "^17.12.0",
+    "typescript-eslint": "^8.69.0"
+  }
+}

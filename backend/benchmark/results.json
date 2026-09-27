@@ -1,0 +1,259 @@
+{
+  "generatedAt": "2026-09-27T21:23:29.821Z",
+  "dataset": "benchmark-dataset.json",
+  "sampleCount": 18,
+  "categoryCounts": {
+    "identical": 6,
+    "paraphrase": 6,
+    "unrelated": 6
+  },
+  "exploratoryClassificationThreshold": 0.5,
+  "meanScoresByCategory": {
+    "identical": {
+      "jaccard": 1,
+      "dice": 1,
+      "cosine": 1,
+      "semantic": 1
+    },
+    "paraphrase": {
+      "jaccard": 0.12190000000000001,
+      "dice": 0.3090833333333333,
+      "cosine": 0.23489999999999997,
+      "semantic": 0.7862499999999999
+    },
+    "unrelated": {
+      "jaccard": 0.04954999999999999,
+      "dice": 0.23903333333333335,
+      "cosine": 0.10254999999999999,
+      "semantic": 0.01995
+    }
+  },
+  "binaryClassification": {
+    "jaccard": {
+      "threshold": 0.5,
+      "accuracy": 0.6666666666666666,
+      "precision": 1,
+      "recall": 0.5,
+      "f1": 0.6666666666666666,
+      "truePositive": 6,
+      "trueNegative": 6,
+      "falsePositive": 0,
+      "falseNegative": 6
+    },
+    "dice": {
+      "threshold": 0.5,
+      "accuracy": 0.6666666666666666,
+      "precision": 1,
+      "recall": 0.5,
+      "f1": 0.6666666666666666,
+      "truePositive": 6,
+      "trueNegative": 6,
+      "falsePositive": 0,
+      "falseNegative": 6
+    },
+    "cosine": {
+      "threshold": 0.5,
+      "accuracy": 0.6666666666666666,
+      "precision": 1,
+      "recall": 0.5,
+      "f1": 0.6666666666666666,
+      "truePositive": 6,
+      "trueNegative": 6,
+      "falsePositive": 0,
+      "falseNegative": 6
+    },
+    "semantic": {
+      "threshold": 0.5,
+      "accuracy": 1,
+      "precision": 1,
+      "recall": 1,
+      "f1": 1,
+      "truePositive": 12,
+      "trueNegative": 6,
+      "falsePositive": 0,
+      "falseNegative": 0
+    }
+  },
+  "scores": [
+    {
+      "id": "exact-01",
+      "category": "identical",
+      "metrics": {
+        "jaccard": 1,
+        "dice": 1,
+        "cosine": 1,
+        "semantic": 1
+      }
+    },
+    {
+      "id": "exact-02",
+      "category": "identical",
+      "metrics": {
+        "jaccard": 1,
+        "dice": 1,
+        "cosine": 1,
+        "semantic": 1
+      }
+    },
+    {
+      "id": "exact-03",
+      "category": "identical",
+      "metrics": {
+        "jaccard": 1,
+        "dice": 1,
+        "cosine": 1,
+        "semantic": 1
+      }
+    },
+    {
+      "id": "exact-04",
+      "category": "identical",
+      "metrics": {
+        "jaccard": 1,
+        "dice": 1,
+        "cosine": 1,
+        "semantic": 1
+      }
+    },
+    {
+      "id": "exact-05",
+      "category": "identical",
+      "metrics": {
+        "jaccard": 1,
+        "dice": 1,
+        "cosine": 1,
+        "semantic": 1
+      }
+    },
+    {
+      "id": "exact-06",
+      "category": "identical",
+      "metrics": {
+        "jaccard": 1,
+        "dice": 1,
+        "cosine": 1,
+        "semantic": 1
+      }
+    },
+    {
+      "id": "paraphrase-01",
+      "category": "paraphrase",
+      "metrics": {
+        "jaccard": 0.2143,
+        "dice": 0.2892,
+        "cosine": 0.402,
+        "semantic": 0.7548
+      }
+    },
+    {
+      "id": "paraphrase-02",
+      "category": "paraphrase",
+      "metrics": {
+        "jaccard": 0.1333,
+        "dice": 0.1975,
+        "cosine": 0.3062,
+        "semantic": 0.6136
+      }
+    },
+    {
+      "id": "paraphrase-03",
+      "category": "paraphrase",
+      "metrics": {
+        "jaccard": 0.0556,
+        "dice": 0.2778,
+        "cosine": 0.1054,
+        "semantic": 0.8281
+      }
+    },
+    {
+      "id": "paraphrase-04",
+      "category": "paraphrase",
+      "metrics": {
+        "jaccard": 0.1176,
+        "dice": 0.4806,
+        "cosine": 0.2108,
+        "semantic": 0.823
+      }
+    },
+    {
+      "id": "paraphrase-05",
+      "category": "paraphrase",
+      "metrics": {
+        "jaccard": 0.1053,
+        "dice": 0.368,
+        "cosine": 0.1925,
+        "semantic": 0.8581
+      }
+    },
+    {
+      "id": "paraphrase-06",
+      "category": "paraphrase",
+      "metrics": {
+        "jaccard": 0.1053,
+        "dice": 0.2414,
+        "cosine": 0.1925,
+        "semantic": 0.8399
+      }
+    },
+    {
+      "id": "unrelated-01",
+      "category": "unrelated",
+      "metrics": {
+        "jaccard": 0.05,
+        "dice": 0.2264,
+        "cosine": 0.0962,
+        "semantic": 0
+      }
+    },
+    {
+      "id": "unrelated-02",
+      "category": "unrelated",
+      "metrics": {
+        "jaccard": 0,
+        "dice": 0.1455,
+        "cosine": 0,
+        "semantic": 0
+      }
+    },
+    {
+      "id": "unrelated-03",
+      "category": "unrelated",
+      "metrics": {
+        "jaccard": 0.125,
+        "dice": 0.2991,
+        "cosine": 0.2887,
+        "semantic": 0.0326
+      }
+    },
+    {
+      "id": "unrelated-04",
+      "category": "unrelated",
+      "metrics": {
+        "jaccard": 0.0667,
+        "dice": 0.28,
+        "cosine": 0.125,
+        "semantic": 0.0153
+      }
+    },
+    {
+      "id": "unrelated-05",
+      "category": "unrelated",
+      "metrics": {
+        "jaccard": 0,
+        "dice": 0.1869,
+        "cosine": 0,
+        "semantic": 0.0718
+      }
+    },
+    {
+      "id": "unrelated-06",
+      "category": "unrelated",
+      "metrics": {
+        "jaccard": 0.0556,
+        "dice": 0.2963,
+        "cosine": 0.1054,
+        "semantic": 0
+      }
+    }
+  ]
+}
